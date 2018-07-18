@@ -1,0 +1,31 @@
+{
+  "name": "ethereum_nodejs",
+  "version": "1.0.0",
+  "description": "Build a demo smart contract and run with NodeJS",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29ff/ethereum_nodejs.git"
+  },
+  "keywords": [
+    "blockchain",
+    "smartcontract",
+    "ethereum",
+    "nodejs"
+  ],
+  "author": "29FF <nbhung1809@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/29ff/ethereum_nodejs/issues"
+  },
+  "homepage": "https://github.com/29ff/ethereum_nodejs#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
+}
